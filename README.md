@@ -22,5 +22,5 @@ L'éditeur ressemble a cela :
 
 ![MonEditeur.png](https://github.com/SamGdy/TpWindowsForm/blob/master/MonEditeur.PNG)
 
-#L'enregistrement
+# L'enregistrement
 En utilisant la bibliothèque IO (input,output) qui permet d'enregistrer ou de charger un fichier.
