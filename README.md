@@ -15,7 +15,7 @@ Le développement tourne autour de 2 paties principales :
 |Gestion du texte|C#|Programmation objet tests unitaires|
 |Enregistrement |C#,system.IO|---|
 
-#La gestion du texte
+# La gestion du texte
 Afin de pouvoir gerer le texte, on ajoute des methode pour mettre en place les outils de base d'un éditeur.
 Comme les outils : copier/coller, couper, undo(retour en arrière) ...
 L'éditeur ressemble a cela :
