@@ -20,4 +20,4 @@ Afin de pouvoir gerer le texte, on ajoute des methode pour mettre en place les o
 Comme les outils : copier/coller, couper, undo(retour en arrière) ...
 L'éditeur ressemble a cela :
 
-![MonEditeur.png]()
+![MonEditeur.png](https://github.com/SamGdy/TpWindowsForm/blob/master/MonEditeur.PNG)
